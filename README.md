@@ -10,7 +10,7 @@
 
 |  **运行环境**  |  **支持应用**  |  **使用方法**  |
 | --- | --- | --- |
-|  [快捷指令](https://www.icloud.com/shortcuts/8f29fae0595f435daf5307cef9a4e691)  |  Surge 3 Pro  |  [《用户指南》](https://github.com/linzx91/surge-ruleset/blob/master/UsersGuide.md)  |
+|  [快捷指令](https://www.icloud.com/shortcuts/4e68c74a2d634d8e944be7ef0b04374e)  |  Surge 3 Pro  |  [《用户指南》](https://github.com/linzx91/surge-ruleset/blob/master/UsersGuide.md)  |
 |  敬请期待…  |    |    |
 
 <br><br>
