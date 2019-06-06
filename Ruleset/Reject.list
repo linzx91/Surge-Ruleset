@@ -172,6 +172,7 @@ DOMAIN-SUFFIX,17leyi.com
 DOMAIN-SUFFIX,17un.co
 DOMAIN-SUFFIX,17un.com
 DOMAIN-SUFFIX,17zhaole.com
+DOMAIN-SUFFIX,186078.com
 DOMAIN-SUFFIX,189zj.cn
 DOMAIN-SUFFIX,18av.mm-cg.co
 DOMAIN-SUFFIX,18dusun.com
@@ -3463,6 +3464,7 @@ DOMAIN-SUFFIX,fjlqqc.com
 DOMAIN-SUFFIX,fjmeyer.com
 DOMAIN-SUFFIX,fkku194.com
 DOMAIN-SUFFIX,flash.2144.com
+DOMAIN-SUFFIX,flash.cn
 DOMAIN-SUFFIX,flashtalking.com
 DOMAIN-SUFFIX,float.kankan.com
 DOMAIN-SUFFIX,flowcodeapp.com
@@ -4652,6 +4654,7 @@ DOMAIN-SUFFIX,kaitongyewu.com
 DOMAIN-SUFFIX,karma.mdpcdn.com
 DOMAIN-SUFFIX,kas.keydot.net
 DOMAIN-SUFFIX,kawa11.space
+DOMAIN-SUFFIX,kawo77.com
 DOMAIN-SUFFIX,kbnetworkz.s3.amazonaws.com
 DOMAIN-SUFFIX,kddtri.cn
 DOMAIN-SUFFIX,kejet.com
@@ -5559,6 +5562,7 @@ DOMAIN-SUFFIX,mobilityware.com
 DOMAIN-SUFFIX,mobiorg8.com
 DOMAIN-SUFFIX,mobisage.cn
 DOMAIN-SUFFIX,mobiw.com
+DOMAIN-SUFFIX,mobjump.com
 DOMAIN-SUFFIX,mobstarry.com
 DOMAIN-SUFFIX,mobtrack.co
 DOMAIN-SUFFIX,mobvista.com
@@ -5698,6 +5702,7 @@ DOMAIN-SUFFIX,nav.winasdaq.com
 DOMAIN-SUFFIX,navi.gd.chinamobile.com
 DOMAIN-SUFFIX,nbhxgjz.com
 DOMAIN-SUFFIX,nbjjd.com
+DOMAIN-SUFFIX,nbkbgd.cn
 DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
 DOMAIN-SUFFIX,nbzq.net
 DOMAIN-SUFFIX,nc004x.corp.youdao.com
@@ -8601,6 +8606,7 @@ IP-CIDR,117.25.133.209/32,no-resolve
 IP-CIDR,118.144.88.126/32,no-resolve
 IP-CIDR,118.144.88.215/28,no-resolve
 IP-CIDR,118.144.88.215/32,no-resolve
+IP-CIDR,118.144.88.216/32,no-resolve
 IP-CIDR,119.188.13.0/24,no-resolve
 IP-CIDR,119.4.249.166/32,no-resolve
 IP-CIDR,120.132.57.41/32,no-resolve
