@@ -136,6 +136,7 @@ DOMAIN-SUFFIX,blogspot.hk
 DOMAIN-SUFFIX,blogtd.org
 DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,book.com.tw
 DOMAIN-SUFFIX,booklive.jp
 DOMAIN-SUFFIX,books.com.tw
@@ -155,6 +156,7 @@ DOMAIN-SUFFIX,camfrog.com
 DOMAIN-SUFFIX,capitalg.com
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
+DOMAIN-SUFFIX,cccat.cc
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnst.net
@@ -712,12 +714,14 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steemit.com
+DOMAIN-SUFFIX,steemitwallet.com
 DOMAIN-SUFFIX,storify.com
 DOMAIN-SUFFIX,streetvoice.com
 DOMAIN-SUFFIX,stumbleupon.com
 DOMAIN-SUFFIX,sugarsync.com
 DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,superpages.com
+DOMAIN-SUFFIX,supertop.co
 DOMAIN-SUFFIX,surfeasy.com.au
 DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,surrenderat20.net
@@ -752,6 +756,7 @@ DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,thebobs.com
+DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,theverge.com
@@ -927,12 +932,15 @@ DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xeeno.com
 DOMAIN-SUFFIX,xfinity.com
+DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xiti.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yahooapis.com
+DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yasni.co.uk
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yeeyi.com
