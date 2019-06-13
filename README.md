@@ -42,6 +42,8 @@
 
 **本项目基于 [lhie1/Rules](https://github.com/lhie1/Rules) 制作**
 
+Maintained by Aligege.
+
 <details>
 <summary>点击展开原 README 的内容</summary>
 
@@ -377,8 +379,6 @@ SSR for Android：https://yhyy135.github.io/how-to-use-ssr-android/
 * 可以拷贝、转发，但是必须提供原作者信息，同时也不能将本项目用于商业用途。
 
 </details>
-
-Maintained by Aligege.
 
 <br />
 
