@@ -27,7 +27,7 @@
 
 |  **运行环境**  |  **支持应用**  |  **使用方法**  |
 | --- | --- | --- |
-|  [快捷指令](https://www.icloud.com/shortcuts/d76e4653d9fc48f8aa34bb806c805eec)  |  [Surge 3 Pro](https://nssurge.com)  |  [《用户指南》](https://gitlab.com/Aligege/surge-ruleset/blob/master/UsersGuide.md)  |
+|  [快捷指令](https://www.icloud.com/shortcuts/aae91c3940964a30ae2148494c9683ce)  |  [Surge 3 Pro](https://nssurge.com)  |  [《用户指南》](https://gitlab.com/Aligege/surge-ruleset/blob/master/UsersGuide.md)  |
 |  敬请期待  |    |    |
 
 <br />
