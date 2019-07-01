@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,appdownloader.net
 DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
@@ -298,8 +299,8 @@ DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,feedsportal.com
 DOMAIN-SUFFIX,fiftythree.com
-DOMAIN-SUFFIX,files.wordpress.com
 DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,firech.at
 DOMAIN-SUFFIX,flexibits.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickriver.com
@@ -363,6 +364,7 @@ DOMAIN-SUFFIX,gosetsuden.jp
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gumroad.com
@@ -480,6 +482,7 @@ DOMAIN-SUFFIX,line.naver.jp
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,linksalpha.com
 DOMAIN-SUFFIX,linode.com
+DOMAIN-SUFFIX,listennotes.com
 DOMAIN-SUFFIX,lithium.com
 DOMAIN-SUFFIX,littlehj.com
 DOMAIN-SUFFIX,live.com
@@ -543,10 +546,12 @@ DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,newstapa.org
 DOMAIN-SUFFIX,nexon.com
 DOMAIN-SUFFIX,nextmedia.com
+DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nih.gov
+DOMAIN-SUFFIX,nii.ac.jp
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
@@ -577,6 +582,7 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,omnigroup.com
+DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,ooyala.com
@@ -753,6 +759,7 @@ DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,testflight.apple.com
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,thebobs.com
@@ -871,6 +878,7 @@ DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,vocativ.com
 DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN-SUFFIX,voxer.com
@@ -882,6 +890,7 @@ DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,vzw.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,w3schools.com
+DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,waymo.com
@@ -960,6 +969,7 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
+DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,zattoo.com
 DOMAIN-SUFFIX,zb.com
@@ -1044,12 +1054,14 @@ PROCESS-NAME,Day One
 PROCESS-NAME,Dropbox
 PROCESS-NAME,LINE
 PROCESS-NAME,LookupViewService
+PROCESS-NAME,News
 PROCESS-NAME,Resilio Sync
 PROCESS-NAME,Tweetbot
 PROCESS-NAME,Twitter
 PROCESS-NAME,Twitterrific
 PROCESS-NAME,node-webkit
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
+USER-AGENT,AppleNews*
 USER-AGENT,AwemeI18n*
 USER-AGENT,Coinbase*
 USER-AGENT,Instagram*
@@ -1057,3 +1069,4 @@ USER-AGENT,OneDrive*
 USER-AGENT,Resilio Sync*
 USER-AGENT,Roam*
 USER-AGENT,WhatsApp*
+USER-AGENT,com.apple.news*
