@@ -2169,7 +2169,6 @@ DOMAIN-SUFFIX,bbsimages.zkxf119.com
 DOMAIN-SUFFIX,bbvjs.com
 DOMAIN-SUFFIX,bc.geocities.yahoo.co.jp
 DOMAIN-SUFFIX,bccyyc.com
-DOMAIN-SUFFIX,bce.baidu.com
 DOMAIN-SUFFIX,bchur.com
 DOMAIN-SUFFIX,bcjjg.bugsevent.com
 DOMAIN-SUFFIX,bcjxf.bugsevent.com
@@ -7819,7 +7818,6 @@ DOMAIN-SUFFIX,npdaqy6x1j.me
 DOMAIN-SUFFIX,nq37f.cn
 DOMAIN-SUFFIX,nr1234.com
 DOMAIN-SUFFIX,nryiou.cn
-DOMAIN-SUFFIX,nsclick.baidu.com
 DOMAIN-SUFFIX,nsclickvideo.baidu.com
 DOMAIN-SUFFIX,nsnmiaomu.cn
 DOMAIN-SUFFIX,nsy.hnzyfs.com
@@ -11752,8 +11750,8 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/EcomResourceServer/AdPlayPage/adinfo
-URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/MobileAdServer\/
 URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/(adgateway|adv)\/
+URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/MobileAdServer\/
 URL-REGEX,^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert
 URL-REGEX,^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/
 URL-REGEX,^https?:\/\/.+/img\/ad\.union\.api\/
@@ -11778,12 +11776,12 @@ URL-REGEX,^https?:\/\/.+\/allOne\.php\?ad_name
 URL-REGEX,^https?:\/\/.+\/api\/v\d{1}\/adRealTime
 URL-REGEX,^https?:\/\/.+\/cdn-adn\/
 URL-REGEX,^https?:\/\/.+\/client\/phpui2\/
-URL-REGEX,^https?:\/\/.+\/commercial_api\/(launch|real_time)
 URL-REGEX,^https?:\/\/.+\/eapi\/(ad|log)\/
 URL-REGEX,^https?:\/\/.+\/letv-gug\/
 URL-REGEX,^https?:\/\/.+\/resource\/m\/promo\/adsense
 URL-REGEX,^https?:\/\/.+\/resource\/m\/sys\/app\/adpos
 URL-REGEX,^https?:\/\/.+\/v1\/iflyad\/
+URL-REGEX,^https?:\/\/.+\/v2\/app_ads\/
 URL-REGEX,^https?:\/\/3gimg\.qq\.com\/tencentMapTouch\/app\/activity\/
 URL-REGEX,^https?:\/\/47\.97\.20\.12\/ad\/
 URL-REGEX,^https?:\/\/7n\.bczcdn\.com\/launchad\/
@@ -11831,6 +11829,7 @@ URL-REGEX,^https?:\/\/api\.vistopia\.com\.cn\/api\/v1\/home\/advertisement
 URL-REGEX,^https?:\/\/api\.wallstreetcn\.com\/apiv1\/advertising\/
 URL-REGEX,^https?:\/\/api\.xiachufang\.com\/v2\/ad/
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/(launch|real_time)
+URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/(launch|real_time)
 URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/notification\/shelfMessage
 URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/splashes\/ios
 URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/user\/bookshelf-updated
@@ -11841,8 +11840,9 @@ URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/invite\/popupAdv
 URL-REGEX,^https?:\/\/app\.58\.com\/api\/log\/
 URL-REGEX,^https?:\/\/app\.api\.ke\.com\/config\/config\/bootpage
 URL-REGEX,^https?:\/\/app\.bilibili\.com\/x\/v2\/splash\/
-URL-REGEX,^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v2\/ad
+URL-REGEX,^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v\d\/ad
 URL-REGEX,^https?:\/\/app\.wy\.guahao\.com\/json\/white\/dayquestion\/getpopad
+URL-REGEX,^https?:\/\/app\.yinxiang\.com\/ads\/
 URL-REGEX,^https?:\/\/asp\.cntv\.myalicdn\.com\/.+\?maxbr=850
 URL-REGEX,^https?:\/\/b-api\.ins\.miaopai\.com\/1\/ad/
 URL-REGEX,^https?:\/\/btrace.qq.com
@@ -11869,7 +11869,6 @@ URL-REGEX,^https?:\/\/dsp\.toutiao\.com\/api\/xunfei\/ads\/
 URL-REGEX,^https?:\/\/edit\.sinaapp\.com\/ua\?t=adv
 URL-REGEX,^https?:\/\/foodie-api\.yiruikecorp\.com\/v1\/(banner|notice)\/overview
 URL-REGEX,^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/(interfaceAdMonitor|interfaceAd)\/
-URL-REGEX,^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/status\/init
 URL-REGEX,^https?:\/\/gateway\.shouqiev\.com\/fsda\/app\/bootImage\.json
 URL-REGEX,^https?:\/\/ggic2\.cmvideo\.cn\/ad\/
 URL-REGEX,^https?:\/\/ggic\.cmvideo\.cn\/ad\/
@@ -11909,7 +11908,7 @@ URL-REGEX,^https?:\/\/mob\.mddcloud\.com\.cn\/api\/(ad|advert)\/
 URL-REGEX,^https?:\/\/mobile-api2011\.elong\.com\/(adgateway|adv)\/
 URL-REGEX,^https?:\/\/mobile-pic\.cache\.iciba\.com\/feeds_ad\/
 URL-REGEX,^https?:\/\/mp\.weixin\.qq\.com\/mp\/(ad_|advertisement|getappmsgad)
-URL-REGEX,^https?:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/\d{25}\.(png|jpg)
+URL-REGEX,^https?:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/\d\.(png|jpg)
 URL-REGEX,^https?:\/\/mrobot\.pcauto\.com\.cn\/v3\/ad2p
 URL-REGEX,^https?:\/\/mrobot\.pcauto\.com\.cn\/xsp\/s\/auto\/info\/preload\.xsp
 URL-REGEX,^https?:\/\/mrobot\.pconline\.com\.cn\/s\/onlineinfo\/ad\/
@@ -11925,6 +11924,7 @@ URL-REGEX,^https?:\/\/open\.qyer\.com\/qyer\/startpage\/
 URL-REGEX,^https?:\/\/overseas\.weico\.cc/portal\.php\?a=get_coopen_ads
 URL-REGEX,^https?:\/\/p\d{1}\.meituan\.net\/(adunion|display|linglong|mmc|wmbanner)\/
 URL-REGEX,^https?:\/\/pic1\.chelaile\.net\.cn\/adv\/
+URL-REGEX,^https?:\/\/pic1cdn\.cmbchina\.com\/appinitads\/
 URL-REGEX,^https?:\/\/pic\.k\.sohu\.com\/img8\/wb\/tj\/
 URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v1\/ios\/configs\/(splash_ad|ad_urls)
 URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d{1}\/ios\/ads\/
