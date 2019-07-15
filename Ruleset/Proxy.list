@@ -228,7 +228,6 @@ DOMAIN-SUFFIX,dcmilitary.com
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,deepdiscount.com
 DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,deja.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,depositphotos.cn
@@ -622,6 +621,7 @@ DOMAIN-SUFFIX,pinboard.in
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,pipe.aria.microsoft.com
 DOMAIN-SUFFIX,pixelmator.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixnet.net
@@ -861,6 +861,7 @@ DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,uwants.com
 DOMAIN-SUFFIX,v.gd
 DOMAIN-SUFFIX,v2ex.co
+DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,van001.com
 DOMAIN-SUFFIX,vanpeople.com
