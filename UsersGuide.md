@@ -23,7 +23,7 @@
 
 **这里我们随便找一个支持 Surge 托管的机场来作为示范，请看下图：**
 
-![](https://github.com/linzx91/surge-ruleset/raw/master/Images/Add_Proxy.png)
+![](/Images/Add_Proxy.png)
 
 **这里拷贝到的链接就是 Surge 的托管地址！**
 
@@ -110,7 +110,7 @@
 
 > **默认策略组名称可在词典 "GroupName" 目录中进行更改，如下图所示：**
 
-![](https://github.com/linzx91/surge-ruleset/raw/master/Images/Group_Name.png)
+![](/Images/Group_Name.png)
 
 <br>
 
@@ -123,22 +123,22 @@
 
 **首先点击快捷指令右上角的 `⋯` 然后找到 "词典" 的模块；如下图所示**
 
-![](https://github.com/linzx91/surge-ruleset/raw/master/Images/Add_Rules_01.png)
+![](/Images/Add_Rules_01.png)
 <br>
 
 **再进入到词典的 "Ruleset" 目录中选择 `添加"新项目"`**
 
-![](https://github.com/linzx91/surge-ruleset/raw/master/Images/Add_Rules_02.png)
+![](/Images/Add_Rules_02.png)
 <br>
 
 **类型选择 "词典" ，"键" 可以随便输入一个名称**
 
-![](https://github.com/linzx91/surge-ruleset/raw/master/Images/Add_Rules_03.png)
+![](/Images/Add_Rules_03.png)
 <br>
 
 **再进入到刚刚添加的词典项目中再添加一个新项目，类型选择 "文本"**
 
-![](https://github.com/linzx91/surge-ruleset/raw/master/Images/Add_Rules_04.png)
+![](/Images/Add_Rules_04.png)
 <br>
 
 **这里的 "键" 可以不用填，直接在后面的文本中输入规则内容（每个项目只能添加一条规则，建议使用 `list` 规则集。）**
@@ -157,7 +157,7 @@ RULE-SET,https://github.com/linzx91/surge-ruleset/raw/master/Ruleset/Media/Netfl
 
 **最后再将自定义添加的项目全部拖到列表顶部即可生效。**
 
-![](https://github.com/linzx91/surge-ruleset/raw/master/Images/Add_Rules_05.png)
+![](/Images/Add_Rules_05.png)
 
 <br>
 
@@ -172,7 +172,7 @@ RULE-SET,https://github.com/linzx91/surge-ruleset/raw/master/Ruleset/Media/Netfl
 > 
 > RULE-SET,`规则地址`,`策略名`,update-interval=`自动更新间隔时间 (秒)`
 
-![](https://github.com/linzx91/surge-ruleset/raw/master/Images/Add_Rules_06.png)
+![](/Images/Add_Rules_06.png)
 
 <br>
 
@@ -185,7 +185,7 @@ RULE-SET,https://github.com/linzx91/surge-ruleset/raw/master/Ruleset/Media/Netfl
 
 **更多自定义配置请参考下图所示**
 
-![](https://github.com/linzx91/surge-ruleset/raw/master/Images/Custom.png)
+![](/Images/Custom.png)
 
 <br>
 

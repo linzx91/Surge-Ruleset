@@ -34,7 +34,7 @@
 
 > **以下是本项目的"快捷指令"界面截图**
 
-![](https://gitlab.com/Aligege/surge-ruleset/raw/master/Images/Rule_Updater_01.png)
+![](/Images/Rule_Updater_01.png)
 
 <br />
 
