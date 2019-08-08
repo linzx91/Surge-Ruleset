@@ -1,6 +1,5 @@
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,beplay
-DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,12306.cn
@@ -10,6 +9,7 @@ DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,21cn.com
+DOMAIN-SUFFIX,343480.com
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360buy.com
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,51ym.me
 DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,8686c.com
+DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,abercrombie.com
 DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,acgvideo.com
@@ -53,6 +54,7 @@ DOMAIN-SUFFIX,beatsbydre.com
 DOMAIN-SUFFIX,beitaichufang.com
 DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
@@ -63,6 +65,7 @@ DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,chinacache.net
 DOMAIN-SUFFIX,chinanetcenter.com
@@ -73,7 +76,6 @@ DOMAIN-SUFFIX,chushou.tv
 DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-SUFFIX,client.amplifi.com
 DOMAIN-SUFFIX,clouddn.com
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudsigma.com
 DOMAIN-SUFFIX,cloudxns.net
 DOMAIN-SUFFIX,cmbchina.com
@@ -99,6 +101,7 @@ DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyutv.com
+DOMAIN-SUFFIX,download.jetbrains.com
 DOMAIN-SUFFIX,duokan.com
 DOMAIN-SUFFIX,duoshuo.com
 DOMAIN-SUFFIX,dxycdn.com
@@ -135,9 +138,12 @@ DOMAIN-SUFFIX,hicloud.com
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hollisterco.com
 DOMAIN-SUFFIX,hongxiu.com
+DOMAIN-SUFFIX,hostbuf.com
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,hxcdn.net
+DOMAIN-SUFFIX,icedropper.com
 DOMAIN-SUFFIX,iciba.com
+DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
@@ -202,6 +208,7 @@ DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,moji.com
 DOMAIN-SUFFIX,moke.com
+DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,mxhichina.com
@@ -215,6 +222,7 @@ DOMAIN-SUFFIX,ngabbs.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,passthepopcorn.me
@@ -271,6 +279,7 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steampowered.com
@@ -280,6 +289,8 @@ DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tawk.link
+DOMAIN-SUFFIX,tawk.to
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tenpay.com
@@ -305,7 +316,7 @@ DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,uxengine.net
 DOMAIN-SUFFIX,v-56.com
-DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,wangsu.com
 DOMAIN-SUFFIX,weather.bjango.com

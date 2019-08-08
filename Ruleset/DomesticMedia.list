@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,music.126.net
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,qy.net
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,vv.video.qq.com
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,101.227.0.0/16,no-resolve
