@@ -21,6 +21,7 @@ DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,domob
 DOMAIN-KEYWORD,duomeng
 DOMAIN-KEYWORD,dwtrack
+DOMAIN-KEYWORD,epochtimes
 DOMAIN-KEYWORD,fenxi
 DOMAIN-KEYWORD,googleads
 DOMAIN-KEYWORD,guanggao
@@ -36,7 +37,6 @@ DOMAIN-KEYWORD,securepubads
 DOMAIN-KEYWORD,socdm
 DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,taboola
-DOMAIN-KEYWORD,traffic
 DOMAIN-KEYWORD,uedas
 DOMAIN-KEYWORD,umtrack
 DOMAIN-KEYWORD,uploadMobileData
@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,0aqpqdju.me
 DOMAIN-SUFFIX,0b6h.cn
 DOMAIN-SUFFIX,0fwg.cn
 DOMAIN-SUFFIX,0n6h.cn
+DOMAIN-SUFFIX,0nin.cn
 DOMAIN-SUFFIX,0ozo.cn
 DOMAIN-SUFFIX,0x013d.website
 DOMAIN-SUFFIX,0x01e7.website
@@ -145,6 +146,7 @@ DOMAIN-SUFFIX,1.qjhm.net
 DOMAIN-SUFFIX,1.qt86.com
 DOMAIN-SUFFIX,1.qtmojo.cn
 DOMAIN-SUFFIX,1.rengshu.com
+DOMAIN-SUFFIX,1.rr95.com
 DOMAIN-SUFFIX,1.sj33.net
 DOMAIN-SUFFIX,1.soufy.cn
 DOMAIN-SUFFIX,1.tongquee.com
@@ -167,6 +169,7 @@ DOMAIN-SUFFIX,1.xxszw.cn
 DOMAIN-SUFFIX,1.yac8.net
 DOMAIN-SUFFIX,1.yuexw.com
 DOMAIN-SUFFIX,1.zhev.com.cn
+DOMAIN-SUFFIX,1.zhuangxiu567.com
 DOMAIN-SUFFIX,1.zou114.com
 DOMAIN-SUFFIX,1.zouning.net
 DOMAIN-SUFFIX,1.zuowenjun.com
@@ -183,6 +186,7 @@ DOMAIN-SUFFIX,11.golang8.com
 DOMAIN-SUFFIX,11.hydcd.com
 DOMAIN-SUFFIX,111111qb.com
 DOMAIN-SUFFIX,111cn.net
+DOMAIN-SUFFIX,111g.yiqig.cn
 DOMAIN-SUFFIX,1133.cc
 DOMAIN-SUFFIX,11370090.net
 DOMAIN-SUFFIX,114com.cc
@@ -291,6 +295,7 @@ DOMAIN-SUFFIX,21.fh21static.com
 DOMAIN-SUFFIX,210189.com
 DOMAIN-SUFFIX,2144.cn
 DOMAIN-SUFFIX,215to.cn
+DOMAIN-SUFFIX,216pu.cn
 DOMAIN-SUFFIX,21union.com
 DOMAIN-SUFFIX,21xsk.com
 DOMAIN-SUFFIX,22.qingsongbar.com
@@ -355,6 +360,7 @@ DOMAIN-SUFFIX,32414.com
 DOMAIN-SUFFIX,32666099.com
 DOMAIN-SUFFIX,33.autohome.com.cn
 DOMAIN-SUFFIX,33.pcpop.com
+DOMAIN-SUFFIX,333dm.com
 DOMAIN-SUFFIX,33544444.com
 DOMAIN-SUFFIX,336.com
 DOMAIN-SUFFIX,338336.com
@@ -519,6 +525,8 @@ DOMAIN-SUFFIX,5mbd2.com
 DOMAIN-SUFFIX,5pb266.com
 DOMAIN-SUFFIX,5pub.com
 DOMAIN-SUFFIX,5rxk.cn
+DOMAIN-SUFFIX,5tbiec.cn
+DOMAIN-SUFFIX,5tps.vip
 DOMAIN-SUFFIX,5vz3cfs0yd.me
 DOMAIN-SUFFIX,5x0f.cn
 DOMAIN-SUFFIX,5y9nfpes.52pk.com
@@ -574,6 +582,7 @@ DOMAIN-SUFFIX,6yush.cn
 DOMAIN-SUFFIX,6yw7j.cn
 DOMAIN-SUFFIX,700900.com
 DOMAIN-SUFFIX,700ok.net
+DOMAIN-SUFFIX,7011.stia.cn
 DOMAIN-SUFFIX,706529.com
 DOMAIN-SUFFIX,7080555.com
 DOMAIN-SUFFIX,70e.com
@@ -656,6 +665,7 @@ DOMAIN-SUFFIX,86file.megajoy.com
 DOMAIN-SUFFIX,86kx.com
 DOMAIN-SUFFIX,878090.com
 DOMAIN-SUFFIX,8800271.com.cn
+DOMAIN-SUFFIX,881903.com
 DOMAIN-SUFFIX,88210212.com
 DOMAIN-SUFFIX,8866786.com
 DOMAIN-SUFFIX,888.izhufu.net
@@ -969,6 +979,7 @@ DOMAIN-SUFFIX,abds.pingpingw.com
 DOMAIN-SUFFIX,abeij.com
 DOMAIN-SUFFIX,abema-adx.ameba.jp
 DOMAIN-SUFFIX,abfirst.cn
+DOMAIN-SUFFIX,aboluowang.com
 DOMAIN-SUFFIX,abrsamar.com
 DOMAIN-SUFFIX,abtest.mistat.xiaomi.com
 DOMAIN-SUFFIX,ac-gb.mgid.com
@@ -2409,6 +2420,7 @@ DOMAIN-SUFFIX,bla01.com
 DOMAIN-SUFFIX,blaaaa12.googlecode.com
 DOMAIN-SUFFIX,blamads-assets.s3.amazonaws.com
 DOMAIN-SUFFIX,blb.winasdaq.com
+DOMAIN-SUFFIX,bldaily.com
 DOMAIN-SUFFIX,blfyquz.cn
 DOMAIN-SUFFIX,blissfulonline.com
 DOMAIN-SUFFIX,bllbaby.cn
@@ -2888,6 +2900,8 @@ DOMAIN-SUFFIX,chgdf.cn
 DOMAIN-SUFFIX,chicken18.com
 DOMAIN-SUFFIX,chidir.com
 DOMAIN-SUFFIX,china-pengdu.cn
+DOMAIN-SUFFIX,china21.org
+DOMAIN-SUFFIX,chinaaffairs.org
 DOMAIN-SUFFIX,chinacsky.com
 DOMAIN-SUFFIX,chinahdcm.com
 DOMAIN-SUFFIX,chinaheh.com
@@ -3266,6 +3280,7 @@ DOMAIN-SUFFIX,crl.microsoft.com
 DOMAIN-SUFFIX,crm-eve.b2b.alibaba-inc.com
 DOMAIN-SUFFIX,crosschannel.com
 DOMAIN-SUFFIX,crossoverchina.com
+DOMAIN-SUFFIX,crptgate.com
 DOMAIN-SUFFIX,crs.baidu.com
 DOMAIN-SUFFIX,crwdcntrl.net
 DOMAIN-SUFFIX,cryptaloot.pro
@@ -3645,6 +3660,7 @@ DOMAIN-SUFFIX,dakawm.cc
 DOMAIN-SUFFIX,dake.net.cn
 DOMAIN-SUFFIX,dal9hkyfi0m0n.cloudfront.net
 DOMAIN-SUFFIX,dalianhengtai.com
+DOMAIN-SUFFIX,dalianmeng.org
 DOMAIN-SUFFIX,dami66.cn
 DOMAIN-SUFFIX,damiren.com
 DOMAIN-SUFFIX,danangmo.cn
@@ -3772,6 +3788,7 @@ DOMAIN-SUFFIX,dev-push.m.youku.com
 DOMAIN-SUFFIX,dev.tg.youxi.com
 DOMAIN-SUFFIX,devs.data.mob.com
 DOMAIN-SUFFIX,dew9ckzjyt2gn.cloudfront.net
+DOMAIN-SUFFIX,deyidesign.com
 DOMAIN-SUFFIX,dezfu.com
 DOMAIN-SUFFIX,df3n43m.com
 DOMAIN-SUFFIX,df666.pzhttaax.cn
@@ -3850,6 +3867,7 @@ DOMAIN-SUFFIX,dkdwv3lcby5zi.cloudfront.net
 DOMAIN-SUFFIX,dkeyn.com
 DOMAIN-SUFFIX,dkg.ifeng.com
 DOMAIN-SUFFIX,dkm6b5q0h53z4.cloudfront.net
+DOMAIN-SUFFIX,dkn.tv
 DOMAIN-SUFFIX,dkqapp.cn
 DOMAIN-SUFFIX,dl-vip.bav.baidu.com
 DOMAIN-SUFFIX,dl-vip.pcfaster.baidu.co.th
@@ -3961,6 +3979,7 @@ DOMAIN-SUFFIX,do.lymstsc.com
 DOMAIN-SUFFIX,do69ifsly4.me
 DOMAIN-SUFFIX,doc.go.sohu.com
 DOMAIN-SUFFIX,dodatova.com
+DOMAIN-SUFFIX,dog1.verystream.com
 DOMAIN-SUFFIX,dojx47ab4dyxi.cloudfront.net
 DOMAIN-SUFFIX,dokaboka.com
 DOMAIN-SUFFIX,dol.deliver.ifeng.com
@@ -3968,6 +3987,7 @@ DOMAIN-SUFFIX,dolphin.deliver.ifeng.com
 DOMAIN-SUFFIX,dolphin.ftimg.net
 DOMAIN-SUFFIX,dolphin4.ftimg.net
 DOMAIN-SUFFIX,domed.shenbimall.com
+DOMAIN-SUFFIX,dongtaiwang.com
 DOMAIN-SUFFIX,dontblockme.modaco.com
 DOMAIN-SUFFIX,dontibar.com
 DOMAIN-SUFFIX,door2new.net
@@ -4390,6 +4410,7 @@ DOMAIN-SUFFIX,e.zjkdaikuan.com
 DOMAIN-SUFFIX,e.zkwsdf.com
 DOMAIN-SUFFIX,e.zunss.com
 DOMAIN-SUFFIX,e2e.mashable.com
+DOMAIN-SUFFIX,e2e.pcmag.com
 DOMAIN-SUFFIX,e647ob.cn
 DOMAIN-SUFFIX,e7001.com
 DOMAIN-SUFFIX,e7002.com
@@ -4434,6 +4455,7 @@ DOMAIN-SUFFIX,ediun.com
 DOMAIN-SUFFIX,ediuschina.com
 DOMAIN-SUFFIX,edncui.net
 DOMAIN-SUFFIX,edo5.com
+DOMAIN-SUFFIX,edoors.com
 DOMAIN-SUFFIX,eduad.baidu.com
 DOMAIN-SUFFIX,eduancm.com
 DOMAIN-SUFFIX,eduzzjy.com
@@ -4484,6 +4506,7 @@ DOMAIN-SUFFIX,engine.lvehaisen.com
 DOMAIN-SUFFIX,engine.tuia.cn
 DOMAIN-SUFFIX,enjuk.com
 DOMAIN-SUFFIX,enjuw.com
+DOMAIN-SUFFIX,enohb.com
 DOMAIN-SUFFIX,ent1.12584.cn
 DOMAIN-SUFFIX,entry.baidu.com
 DOMAIN-SUFFIX,enyayinxiang.com
@@ -4592,6 +4615,7 @@ DOMAIN-SUFFIX,facebookma.cn
 DOMAIN-SUFFIX,factorcontest.com
 DOMAIN-SUFFIX,faggrim.com
 DOMAIN-SUFFIX,fair.sogou.com
+DOMAIN-SUFFIX,falundafa.org
 DOMAIN-SUFFIX,falundata.com
 DOMAIN-SUFFIX,falundata.org
 DOMAIN-SUFFIX,family-joy.com
@@ -4806,6 +4830,7 @@ DOMAIN-SUFFIX,fus.lenovomm.com
 DOMAIN-SUFFIX,fuse-ad.com
 DOMAIN-SUFFIX,fusion.qq.com
 DOMAIN-SUFFIX,fuwosi.cn
+DOMAIN-SUFFIX,fuxunb.com
 DOMAIN-SUFFIX,fuyigo.top
 DOMAIN-SUFFIX,fv99.com
 DOMAIN-SUFFIX,fw.adsafeprotected.com
@@ -4923,6 +4948,7 @@ DOMAIN-SUFFIX,gao.ynet.com
 DOMAIN-SUFFIX,gaoguai.com
 DOMAIN-SUFFIX,gaoxiaocup.com
 DOMAIN-SUFFIX,garacy.cn
+DOMAIN-SUFFIX,gardennetworks.com
 DOMAIN-SUFFIX,gas.data.pplive.com
 DOMAIN-SUFFIX,gashot.yurivideos.com
 DOMAIN-SUFFIX,gasxf.com
@@ -5105,6 +5131,7 @@ DOMAIN-SUFFIX,gogolm.xyz
 DOMAIN-SUFFIX,golden1.sogou.com
 DOMAIN-SUFFIX,golizoli.com
 DOMAIN-SUFFIX,golokavi.com
+DOMAIN-SUFFIX,gongyiluntan.org
 DOMAIN-SUFFIX,good.ta80.com
 DOMAIN-SUFFIX,goodgz.cn
 DOMAIN-SUFFIX,googleadservices.com
@@ -5137,6 +5164,7 @@ DOMAIN-SUFFIX,govids.net
 DOMAIN-SUFFIX,gowin01.com
 DOMAIN-SUFFIX,gp.jstv.com
 DOMAIN-SUFFIX,gp.zaiyunli.cn
+DOMAIN-SUFFIX,gpass1.com
 DOMAIN-SUFFIX,gpydym.cn
 DOMAIN-SUFFIX,gqswg.com
 DOMAIN-SUFFIX,grand.ele.me
@@ -5476,6 +5504,7 @@ DOMAIN-SUFFIX,hr41.cn
 DOMAIN-SUFFIX,hr44.com
 DOMAIN-SUFFIX,hrbpay.com
 DOMAIN-SUFFIX,hrcmzp.cn
+DOMAIN-SUFFIX,hrichina.org
 DOMAIN-SUFFIX,hs.qhupdate.com
 DOMAIN-SUFFIX,hs1s1.cn
 DOMAIN-SUFFIX,hsbkr.com
@@ -5491,6 +5520,7 @@ DOMAIN-SUFFIX,httpdns.push.oppomobile.com
 DOMAIN-SUFFIX,hu.xbhy.com
 DOMAIN-SUFFIX,huaerduo.com
 DOMAIN-SUFFIX,huahuaka.com
+DOMAIN-SUFFIX,huanghuagang.org
 DOMAIN-SUFFIX,huanqiucaizhi.com
 DOMAIN-SUFFIX,huashengtai.net
 DOMAIN-SUFFIX,huashuowork.com
@@ -5608,6 +5638,7 @@ DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
 DOMAIN-SUFFIX,iads.js
 DOMAIN-SUFFIX,iads.xinmin.cn
 DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,iamqqo85467.cn
 DOMAIN-SUFFIX,iangp.com
 DOMAIN-SUFFIX,iangs.com
 DOMAIN-SUFFIX,ianhice.pw
@@ -5912,6 +5943,7 @@ DOMAIN-SUFFIX,interaction.bayimob.com
 DOMAIN-SUFFIX,interactive.huanqiu.com
 DOMAIN-SUFFIX,interest.mix.sina.com.cn
 DOMAIN-SUFFIX,internerl.com
+DOMAIN-SUFFIX,internetfreedom.org
 DOMAIN-SUFFIX,ioc.mmakd.top
 DOMAIN-SUFFIX,ioredi.com
 DOMAIN-SUFFIX,ios-dc.51y5.net
@@ -6417,6 +6449,7 @@ DOMAIN-SUFFIX,kaitongyewu.com
 DOMAIN-SUFFIX,kalmloda.com
 DOMAIN-SUFFIX,kalo.onvid.xyz
 DOMAIN-SUFFIX,kanjiaqun.cn
+DOMAIN-SUFFIX,kanzhongguo.com
 DOMAIN-SUFFIX,karma.mdpcdn.com
 DOMAIN-SUFFIX,kas.keydot.net
 DOMAIN-SUFFIX,kat-ads.torrenticity.com
@@ -6520,6 +6553,7 @@ DOMAIN-SUFFIX,kob.adxkj.com
 DOMAIN-SUFFIX,kochava.com
 DOMAIN-SUFFIX,kod4pc293.com
 DOMAIN-SUFFIX,kofpag.com
+DOMAIN-SUFFIX,kojwex.top
 DOMAIN-SUFFIX,kokilopi.com
 DOMAIN-SUFFIX,kolimanq.com
 DOMAIN-SUFFIX,koltruah.com
@@ -6614,6 +6648,7 @@ DOMAIN-SUFFIX,l9bdhcgihw.neihanw.com
 DOMAIN-SUFFIX,l9c4s.cn
 DOMAIN-SUFFIX,la71f.cn
 DOMAIN-SUFFIX,labs.ra.icast.cn
+DOMAIN-SUFFIX,lagranepoca.com
 DOMAIN-SUFFIX,laifu365.com
 DOMAIN-SUFFIX,laigame7.com
 DOMAIN-SUFFIX,laiququan.com
@@ -6706,6 +6741,7 @@ DOMAIN-SUFFIX,life.imagepix.org
 DOMAIN-SUFFIX,lifu11.com
 DOMAIN-SUFFIX,lifuzhubao.com
 DOMAIN-SUFFIX,lightson.vpsboard.com
+DOMAIN-SUFFIX,lihongdou.cn
 DOMAIN-SUFFIX,liktirov.com
 DOMAIN-SUFFIX,liliwoin.top
 DOMAIN-SUFFIX,linezing.com
@@ -7457,11 +7493,13 @@ DOMAIN-SUFFIX,mgogo.com
 DOMAIN-SUFFIX,mgsue.cn
 DOMAIN-SUFFIX,mgwcn.com
 DOMAIN-SUFFIX,mgwl668.com
+DOMAIN-SUFFIX,mh4u.org
 DOMAIN-SUFFIX,mhd.1391.com
 DOMAIN-SUFFIX,mhdpay.1391.com
 DOMAIN-SUFFIX,mhdtestks3.1391.com
 DOMAIN-SUFFIX,mhdufile.1391.com
 DOMAIN-SUFFIX,mhjk.1391.com
+DOMAIN-SUFFIX,mhradio.org
 DOMAIN-SUFFIX,mhuodong.elong.com
 DOMAIN-SUFFIX,mhuos.com
 DOMAIN-SUFFIX,miaiche.cn
@@ -7498,6 +7536,7 @@ DOMAIN-SUFFIX,mindmanager.cc
 DOMAIN-SUFFIX,mindmapper.cc
 DOMAIN-SUFFIX,minesage.com
 DOMAIN-SUFFIX,minfo.wps.cn
+DOMAIN-SUFFIX,minghui.org
 DOMAIN-SUFFIX,mingxianshanghang.cn
 DOMAIN-SUFFIX,mingysh.com
 DOMAIN-SUFFIX,mini.cpc.sogou.com
@@ -7550,6 +7589,7 @@ DOMAIN-SUFFIX,mmg.aty.snmsohu.aisee.tv
 DOMAIN-SUFFIX,mmhhjt.com
 DOMAIN-SUFFIX,mmkvi.com
 DOMAIN-SUFFIX,mmpuh.cn
+DOMAIN-SUFFIX,mms.graziadaily.co.uk
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mmwdwg.cn
 DOMAIN-SUFFIX,mng-ads.com
@@ -7810,6 +7850,7 @@ DOMAIN-SUFFIX,new.zhqiu.com
 DOMAIN-SUFFIX,newapi.com
 DOMAIN-SUFFIX,newjulads.com
 DOMAIN-SUFFIX,newloc.map.n.shifen.com
+DOMAIN-SUFFIX,newrealmstudios.ca
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,news-img.51y5.net
 DOMAIN-SUFFIX,news-l.play.aiseet.atianqi.com
@@ -7919,6 +7960,7 @@ DOMAIN-SUFFIX,nsnmiaomu.cn
 DOMAIN-SUFFIX,nsy.hnzyfs.com
 DOMAIN-SUFFIX,nt.phpwind.com
 DOMAIN-SUFFIX,ntalker.com
+DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,nterbx.com
 DOMAIN-SUFFIX,ntfsformac.cc
 DOMAIN-SUFFIX,ntfsformac.cn
@@ -7994,6 +8036,7 @@ DOMAIN-SUFFIX,oeocriaq.cn
 DOMAIN-SUFFIX,oesnw.com
 DOMAIN-SUFFIX,officeme.cn
 DOMAIN-SUFFIX,offline-adv.oray.com
+DOMAIN-SUFFIX,ogate.org
 DOMAIN-SUFFIX,ohuam.com
 DOMAIN-SUFFIX,oikxlcv.wang
 DOMAIN-SUFFIX,oimagea2.ydstatic.com
@@ -8047,6 +8090,7 @@ DOMAIN-SUFFIX,ooredi.com
 DOMAIN-SUFFIX,ooss.oss.aliyuncs.com
 DOMAIN-SUFFIX,op00w.baiyangzs.com
 DOMAIN-SUFFIX,opaalopaa.com
+DOMAIN-SUFFIX,open.com.hk
 DOMAIN-SUFFIX,open.play.cn
 DOMAIN-SUFFIX,openapi-news.meizu.com
 DOMAIN-SUFFIX,opengam.com
@@ -8067,6 +8111,7 @@ DOMAIN-SUFFIX,optimus-ads.amap.com
 DOMAIN-SUFFIX,oq68.com
 DOMAIN-SUFFIX,orchidscape.net
 DOMAIN-SUFFIX,oredero.com
+DOMAIN-SUFFIX,organcare.org.tw
 DOMAIN-SUFFIX,orz.hupu.com
 DOMAIN-SUFFIX,osaws.com
 DOMAIN-SUFFIX,osc.uranus.sogou.com
@@ -8131,6 +8176,7 @@ DOMAIN-SUFFIX,p.zol-img.com.cn
 DOMAIN-SUFFIX,p0y.cn
 DOMAIN-SUFFIX,p1.18zhongyao.com
 DOMAIN-SUFFIX,p1.qinsx.cn
+DOMAIN-SUFFIX,p1.zhongyoo.com
 DOMAIN-SUFFIX,p1.zhumengwl.com
 DOMAIN-SUFFIX,p2.dnvod.tv
 DOMAIN-SUFFIX,p2.hyz86.com
@@ -8255,6 +8301,7 @@ DOMAIN-SUFFIX,pegasus.cmcm.com
 DOMAIN-SUFFIX,pei-ads.playboy.com
 DOMAIN-SUFFIX,penggua.com.cn
 DOMAIN-SUFFIX,pennyotcstock.com
+DOMAIN-SUFFIX,penxiangge.com
 DOMAIN-SUFFIX,perahbashmama.com
 DOMAIN-SUFFIX,perkas.pw
 DOMAIN-SUFFIX,petsheying.com
@@ -8456,6 +8503,7 @@ DOMAIN-SUFFIX,prc.rjje4.com
 DOMAIN-SUFFIX,prcappzone.intel.com
 DOMAIN-SUFFIX,pre.api.tw06.xlmc.sandai.net
 DOMAIN-SUFFIX,pre.ra.icast.cn
+DOMAIN-SUFFIX,prebid.js
 DOMAIN-SUFFIX,prerollads.ign.com
 DOMAIN-SUFFIX,priceinfo.comuv.com
 DOMAIN-SUFFIX,prikolizdesa.com
@@ -8594,6 +8642,7 @@ DOMAIN-SUFFIX,qaqact.cn
 DOMAIN-SUFFIX,qaquzakalaka.com
 DOMAIN-SUFFIX,qawiman.com
 DOMAIN-SUFFIX,qbyy010.com
+DOMAIN-SUFFIX,qcgkd322.vip
 DOMAIN-SUFFIX,qchannel01.cn
 DOMAIN-SUFFIX,qchannel02.cn
 DOMAIN-SUFFIX,qchannel03.cn
@@ -8707,6 +8756,7 @@ DOMAIN-SUFFIX,quw18.com
 DOMAIN-SUFFIX,quyaoya.com
 DOMAIN-SUFFIX,qwedcfv.com
 DOMAIN-SUFFIX,qweqwe.mctvhp.cn
+DOMAIN-SUFFIX,qxbbs.org
 DOMAIN-SUFFIX,qxfly.com
 DOMAIN-SUFFIX,qxjdlf.com
 DOMAIN-SUFFIX,qxm.pluto.sogou.com
@@ -8825,6 +8875,7 @@ DOMAIN-SUFFIX,rem-track.bild.de
 DOMAIN-SUFFIX,remote88.com
 DOMAIN-SUFFIX,remotedu.cn
 DOMAIN-SUFFIX,rencai56.com
+DOMAIN-SUFFIX,renminbao.com
 DOMAIN-SUFFIX,renminben.com
 DOMAIN-SUFFIX,renren2.maoyun.tv
 DOMAIN-SUFFIX,renshengyiyi.com
@@ -8945,6 +8996,7 @@ DOMAIN-SUFFIX,rto.steelhousemedia.com
 DOMAIN-SUFFIX,rtslgov.cn
 DOMAIN-SUFFIX,ru-gmtdmp.mookie1.com
 DOMAIN-SUFFIX,ruan88.com
+DOMAIN-SUFFIX,ruangkayu.cn
 DOMAIN-SUFFIX,rubicon-match.dotomi.com
 DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,rudy.adsnative.com
@@ -9228,6 +9280,7 @@ DOMAIN-SUFFIX,sebadu.com
 DOMAIN-SUFFIX,sebar.thand.info
 DOMAIN-SUFFIX,sec.resource.xiaomi.net
 DOMAIN-SUFFIX,secpay.wostore.cn
+DOMAIN-SUFFIX,secretchina.com
 DOMAIN-SUFFIX,secretmedia.s3.amazonaws.com
 DOMAIN-SUFFIX,secure-asia.imrworldwide.com
 DOMAIN-SUFFIX,secure-assets.rubiconproject.com
@@ -9289,6 +9342,7 @@ DOMAIN-SUFFIX,shanghuitianxia.cn
 DOMAIN-SUFFIX,shanglinli.com
 DOMAIN-SUFFIX,shangz99991.com
 DOMAIN-SUFFIX,shankejingling.com
+DOMAIN-SUFFIX,shanxiyizhao.com
 DOMAIN-SUFFIX,share.gzdsw.com
 DOMAIN-SUFFIX,shared.youdao.com
 DOMAIN-SUFFIX,sharedaddomain.com
@@ -9304,6 +9358,7 @@ DOMAIN-SUFFIX,shenyun.com
 DOMAIN-SUFFIX,shenyun.org
 DOMAIN-SUFFIX,shenyunkeji.com
 DOMAIN-SUFFIX,shenyunperformingarts.org
+DOMAIN-SUFFIX,shenzhoufilm.com
 DOMAIN-SUFFIX,shglegle.com
 DOMAIN-SUFFIX,shibeiou.com
 DOMAIN-SUFFIX,shicao.icantv.cn
@@ -9463,6 +9518,7 @@ DOMAIN-SUFFIX,soso.ws
 DOMAIN-SUFFIX,sou.dkdlsj.com
 DOMAIN-SUFFIX,sou.xanbhx.com
 DOMAIN-SUFFIX,souid.com
+DOMAIN-SUFFIX,soundofhope.org
 DOMAIN-SUFFIX,source.youxiaoad.com
 DOMAIN-SUFFIX,sousuo.xm.sjzhushou.com
 DOMAIN-SUFFIX,sp.dnqc.com
@@ -9926,6 +9982,7 @@ DOMAIN-SUFFIX,tga.csbew.com
 DOMAIN-SUFFIX,tgb.csbew.com
 DOMAIN-SUFFIX,th21333.com
 DOMAIN-SUFFIX,th7.cn
+DOMAIN-SUFFIX,theepochtimes.com
 DOMAIN-SUFFIX,thefaren.pw
 DOMAIN-SUFFIX,thegreenzoneblog.com
 DOMAIN-SUFFIX,thejesperbay.com
@@ -9946,6 +10003,7 @@ DOMAIN-SUFFIX,thyvjboy.com
 DOMAIN-SUFFIX,thztv.net
 DOMAIN-SUFFIX,ti.tradetracker.net
 DOMAIN-SUFFIX,tiads.time.com
+DOMAIN-SUFFIX,tiandixing.org
 DOMAIN-SUFFIX,tiangoutai.com
 DOMAIN-SUFFIX,tiangu99.com
 DOMAIN-SUFFIX,tianhelife.com
@@ -10129,6 +10187,7 @@ DOMAIN-SUFFIX,tukj.net
 DOMAIN-SUFFIX,tumblrprobes.cedexis.com
 DOMAIN-SUFFIX,tumblrreports.cedexis.com
 DOMAIN-SUFFIX,tunion-api.m.taobao.com
+DOMAIN-SUFFIX,tuoguang1111.com
 DOMAIN-SUFFIX,turn.com
 DOMAIN-SUFFIX,tv.code.jjyx.com
 DOMAIN-SUFFIX,tw.adon.vpon.com
@@ -10365,6 +10424,7 @@ DOMAIN-SUFFIX,uulucky.com
 DOMAIN-SUFFIX,uuopp.com
 DOMAIN-SUFFIX,uuvm.pornpics.com
 DOMAIN-SUFFIX,uvclick.com
+DOMAIN-SUFFIX,uvsea.cn
 DOMAIN-SUFFIX,uw9377.com
 DOMAIN-SUFFIX,uxip.meizu.com
 DOMAIN-SUFFIX,uxyrl.cn
@@ -10439,6 +10499,7 @@ DOMAIN-SUFFIX,vebadu.com
 DOMAIN-SUFFIX,vedeh.com
 DOMAIN-SUFFIX,vegaschina.cn
 DOMAIN-SUFFIX,vegent.cn
+DOMAIN-SUFFIX,velkaepocha.sk
 DOMAIN-SUFFIX,velocecdn.com
 DOMAIN-SUFFIX,vendor1.fitschigogerl.com
 DOMAIN-SUFFIX,venonita.com
@@ -10619,6 +10680,7 @@ DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn
 DOMAIN-SUFFIX,wapx.cn
 DOMAIN-SUFFIX,wapx.com
 DOMAIN-SUFFIX,warron.cn
+DOMAIN-SUFFIX,watchinese.com
 DOMAIN-SUFFIX,watchsk.com
 DOMAIN-SUFFIX,watson.live.com
 DOMAIN-SUFFIX,watson.microsoft.com
@@ -10705,6 +10767,7 @@ DOMAIN-SUFFIX,whalecloud.com
 DOMAIN-SUFFIX,whalepp.com
 DOMAIN-SUFFIX,whcrdz.com
 DOMAIN-SUFFIX,whfpbc.99.com.cn
+DOMAIN-SUFFIX,whhxnz.com
 DOMAIN-SUFFIX,whistleout.s3.amazonaws.com
 DOMAIN-SUFFIX,whn.star-media.cn
 DOMAIN-SUFFIX,wholesomehealthshop.com
@@ -10741,6 +10804,7 @@ DOMAIN-SUFFIX,winvestern.com.cn
 DOMAIN-SUFFIX,wip3.adobe.com
 DOMAIN-SUFFIX,wisepush.video.baidu.com
 DOMAIN-SUFFIX,withad.cn
+DOMAIN-SUFFIX,wixsite.com
 DOMAIN-SUFFIX,wiyun.com
 DOMAIN-SUFFIX,wj.jiancai365.cn
 DOMAIN-SUFFIX,wjdfv.com
@@ -10828,6 +10892,8 @@ DOMAIN-SUFFIX,wtradv.market.xiaomi.com
 DOMAIN-SUFFIX,wu36n.cn
 DOMAIN-SUFFIX,wu65.com
 DOMAIN-SUFFIX,wudang05.com
+DOMAIN-SUFFIX,wujie.net
+DOMAIN-SUFFIX,wujieliulan.com
 DOMAIN-SUFFIX,wuliao.chzsport.cn
 DOMAIN-SUFFIX,wuliao.epro.sogou.com
 DOMAIN-SUFFIX,wuliao.ganji.cn
@@ -11037,6 +11103,7 @@ DOMAIN-SUFFIX,xinasiaj.com
 DOMAIN-SUFFIX,xindelin.cn
 DOMAIN-SUFFIX,xinghao89.com
 DOMAIN-SUFFIX,xingjuhe.com
+DOMAIN-SUFFIX,xingtaiju.cn
 DOMAIN-SUFFIX,xiniuz.com
 DOMAIN-SUFFIX,xinju.cc
 DOMAIN-SUFFIX,xinkuaiyu.com
@@ -11901,9 +11968,9 @@ IP-CIDR,67.229.224.28/32,no-resolve
 IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
-URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/MobileAdServer\/
-URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/EcomResourceServer/AdPlayPage/adinfo
 URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/(adgateway|adv)\/
+URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/EcomResourceServer/AdPlayPage/adinfo
+URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/MobileAdServer\/
 URL-REGEX,^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert
 URL-REGEX,^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/
 URL-REGEX,^https?:\/\/.+/img\/ad\.union\.api\/
@@ -11934,8 +12001,8 @@ URL-REGEX,^https?:\/\/.+\/eapi\/(ad|log)\/
 URL-REGEX,^https?:\/\/.+\/letv-gug\/
 URL-REGEX,^https?:\/\/.+\/resource\/m\/promo\/adsense
 URL-REGEX,^https?:\/\/.+\/resource\/m\/sys\/app\/adpos
-URL-REGEX,^https?:\/\/.+\/v1\/iflyad\/
 URL-REGEX,^https?:\/\/.+\/v2\/app_ads\/
+URL-REGEX,^https?:\/\/.+\/v\d\/iflyad\/
 URL-REGEX,^https?:\/\/3gimg\.qq\.com\/tencentMapTouch\/app\/activity\/
 URL-REGEX,^https?:\/\/47\.97\.20\.12\/ad\/
 URL-REGEX,^https?:\/\/7n\.bczcdn\.com\/launchad\/
@@ -11957,6 +12024,8 @@ URL-REGEX,^https?:\/\/agent-count\.pconline\.com\.cn\/counter\/adAnalyse\/
 URL-REGEX,^https?:\/\/api-mifit.+\.huami\.com\/discovery\/mi\/discovery\/.+_ad\?
 URL-REGEX,^https?:\/\/api-release\.wuta-cam\.com\/ad_tree
 URL-REGEX,^https?:\/\/api5\.futunn\.com\/ad\/
+URL-REGEX,^https?:\/\/api\.21jingji\.com\/ad\/
+URL-REGEX,^https?:\/\/api\.caijingmobile\.com\/(ad|advert)\/
 URL-REGEX,^https?:\/\/api\.catch\.gift\/api\/v3\/pagead\/
 URL-REGEX,^https?:\/\/api\.chelaile\.net\.cn\/adpub\/
 URL-REGEX,^https?:\/\/api\.chelaile\.net\.cn\/goocity\/advert\/
@@ -11967,22 +12036,22 @@ URL-REGEX,^https?:\/\/api\.haohaozhu\.cn\/index\.php\/home\/AppInit\/getStartPho
 URL-REGEX,^https?:\/\/api\.huomao\.com\/channels\/loginAd
 URL-REGEX,^https?:\/\/api\.intsig\.net\/user\/cs\/operating\/app\/get_startpic\/
 URL-REGEX,^https?:\/\/api\.jr\.mi\.com\/jr\/api\/playScreen
-URL-REGEX,^https?:\/\/api\.jr\.mi\.com\/v1\/adv\/
+URL-REGEX,^https?:\/\/api\.jr\.mi\.com\/v\d\/adv\/
 URL-REGEX,^https?:\/\/api\.jxedt\.com\/ad\/
 URL-REGEX,^https?:\/\/api\.k\.sohu\.com\/api\/news\/adsense
 URL-REGEX,^https?:\/\/api\.kkmh\.com\/.+(ad|advertisement)\/
 URL-REGEX,^https?:\/\/api\.laifeng\.com\/v\d\/start\/ads
 URL-REGEX,^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=(start|queryMaterialAdverts)
-URL-REGEX,^https?:\/\/api\.m\.mi\.com\/v1\/app\/start
+URL-REGEX,^https?:\/\/api\.m\.mi\.com\/v\d\/app\/start
 URL-REGEX,^https?:\/\/api\.mgzf\.com\/renter-operation\/home\/startHomePage
 URL-REGEX,^https?:\/\/api\.psy-1\.com\/cosleep\/startup
 URL-REGEX,^https?:\/\/api\.qiuduoduo\.cn\/guideimage
 URL-REGEX,^https?:\/\/api\.rr\.tv\/ad\/
-URL-REGEX,^https?:\/\/api\.smzdm\.com\/v1\/util\/loading
+URL-REGEX,^https?:\/\/api\.smzdm\.com\/v\d\/util\/loading
 URL-REGEX,^https?:\/\/api\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap
 URL-REGEX,^https?:\/\/api\.videozhishi\.com\/api\/getAdvertising
-URL-REGEX,^https?:\/\/api\.vistopia\.com\.cn\/api\/v1\/home\/advertisement
-URL-REGEX,^https?:\/\/api\.wallstreetcn\.com\/apiv1\/advertising\/
+URL-REGEX,^https?:\/\/api\.vistopia\.com\.cn\/api\/v\d\/home\/advertisement
+URL-REGEX,^https?:\/\/api\.wallstreetcn\.com\/apiv\d\/advertising\/
 URL-REGEX,^https?:\/\/api\.xiachufang\.com\/v2\/ad/
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/(launch|real_time)
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/(launch|real_time)
@@ -12009,10 +12078,10 @@ URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/\w+\/\w+\/(sync|newRnSync|newlog|mlo
 URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/c\/f\/forum\/getAdInfo
 URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule
 URL-REGEX,^https?:\/\/cap\.caocaokeji\.cn\/advert-bss\/
-URL-REGEX,^https?:\/\/capi.mwee.cn/app-api/V\d/app/getstartad
+URL-REGEX,^https?:\/\/capi.mwee.cn/app-api/V\d{2}/app/getstartad
 URL-REGEX,^https?:\/\/cdn\.api\.fotoable\.com\/Advertise\/
 URL-REGEX,^https?:\/\/cdn\.moji\.com\/(adoss|adlink)\/
-URL-REGEX,^https?:\/\/channel\.beitaichufang\.com\/channel\/api\/v1\/promote\/ios\/start\/page
+URL-REGEX,^https?:\/\/channel\.beitaichufang\.com\/channel\/api\/v\d\/promote\/ios\/start\/page
 URL-REGEX,^https?:\/\/client\.mail\.163\.com\/apptrack\/confinfo\/searchMultiAds
 URL-REGEX,^https?:\/\/clientaccess\.10086\.cn\/biz-orange\/DN\/init\/startInit
 URL-REGEX,^https?:\/\/cms\.daydaycook\.com\.cn\/api\/cms\/advertisement\/
@@ -12029,11 +12098,10 @@ URL-REGEX,^https?:\/\/dxy\.com\/app\/i\/ask\/biz\/feed\/launch
 URL-REGEX,^https?:\/\/e\.dangdang\.com\/.+getDeviceStartPage
 URL-REGEX,^https?:\/\/easyreadfs\.nosdn\.127\.net\/ad-material\/
 URL-REGEX,^https?:\/\/edit\.sinaapp\.com\/ua\?t=adv
-URL-REGEX,^https?:\/\/foodie-api\.yiruikecorp\.com\/v1\/(banner|notice)\/overview
+URL-REGEX,^https?:\/\/foodie-api\.yiruikecorp\.com\/v\d\/(banner|notice)\/overview
 URL-REGEX,^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/(interfaceAdMonitor|interfaceAd)\/
 URL-REGEX,^https?:\/\/gateway\.shouqiev\.com\/fsda\/app\/bootImage\.json
-URL-REGEX,^https?:\/\/ggic2\.cmvideo\.cn\/ad\/
-URL-REGEX,^https?:\/\/ggic\.cmvideo\.cn\/ad\/
+URL-REGEX,^https?:\/\/ggic\d?\.cmvideo\.cn\/ad\/
 URL-REGEX,^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get\/
 URL-REGEX,^https?:\/\/gw-passenger\.01zhuanche\.com\/gw-passenger\/car-rest\/webservice\/passenger\/recommendADs
 URL-REGEX,^https?:\/\/gw-passenger\.01zhuanche\.com\/gw-passenger\/zhuanche-passenger-token\/leachtoken\/webservice\/homepage\/queryADs
@@ -12079,10 +12147,10 @@ URL-REGEX,^https?:\/\/mobile-api2011\.elong\.com\/(adgateway|adv)\/
 URL-REGEX,^https?:\/\/mobile-pic\.cache\.iciba\.com\/feeds_ad\/
 URL-REGEX,^https?:\/\/mp\.weixin\.qq\.com\/mp\/(ad_|advertisement|getappmsgad)
 URL-REGEX,^https?:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/\d\.(png|jpg)
-URL-REGEX,^https?:\/\/mrobot\.pcauto\.com\.cn\/v3\/ad2p
+URL-REGEX,^https?:\/\/mrobot\.pcauto\.com\.cn\/v\d\/ad2p
 URL-REGEX,^https?:\/\/mrobot\.pcauto\.com\.cn\/xsp\/s\/auto\/info\/preload\.xsp
 URL-REGEX,^https?:\/\/mrobot\.pconline\.com\.cn\/s\/onlineinfo\/ad\/
-URL-REGEX,^https?:\/\/mrobot\.pconline\.com\.cn\/v3\/ad2p
+URL-REGEX,^https?:\/\/mrobot\.pconline\.com\.cn\/v\d\/ad2p
 URL-REGEX,^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo
 URL-REGEX,^https?:\/\/msspjh\.emarbox\.com\/getAdConfig
 URL-REGEX,^https?:\/\/nnapp\.cloudbae\.cn\/mc\/api\/advert/
@@ -12097,8 +12165,8 @@ URL-REGEX,^https?:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+\.jpg
 URL-REGEX,^https?:\/\/pic1cdn\.cmbchina\.com\/appinitads\/
 URL-REGEX,^https?:\/\/pic\.k\.sohu\.com\/img8\/wb\/tj\/
 URL-REGEX,^https?:\/\/pic\d\.chelaile\.net\.cn\/adv\/
-URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v1\/ios\/configs\/(splash_ad|ad_urls)
 URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/ads\/
+URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/configs\/(splash_ad|ad_urls)
 URL-REGEX,^https?:\/\/premiumyva\.appspot\.com\/vmclickstoadvertisersite
 URL-REGEX,^https?:\/\/pss\.txffp\.com\/piaogen\/images\/launchScreen/
 URL-REGEX,^https?:\/\/qt\.qq\.com\/lua\/mengyou\/get_splash_screen_info
@@ -12115,8 +12183,8 @@ URL-REGEX,^https?:\/\/service\.4gtv\.tv\/4gtv\/Data\/(GetAD|ADLog)
 URL-REGEX,^https?:\/\/service\.iciba\.com\/popo\/open\/screens\/v\d\?adjson
 URL-REGEX,^https?:\/\/slapi.oray.net/client/ad
 URL-REGEX,^https?:\/\/smkmp\.96225.com\/smkcenter\/ad/
-URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v1\/adTask\/
-URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v1\/screen\/qn\/get\?
+URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v\d\/adTask\/
+URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v\d\/screen\/qn\/get\?
 URL-REGEX,^https?:\/\/sp\.kaola\.com\/api\/openad
 URL-REGEX,^https?:\/\/ssl\.kohsocialapp\.qq\.com:10001\/game\/buttons
 URL-REGEX,^https?:\/\/static\.vuevideo\.net\/styleAssets\/.+\/splash_ad
@@ -12136,6 +12204,7 @@ URL-REGEX,^https?:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement
 URL-REGEX,^https?:\/\/vv\.video\.qq\.com\/getvmind\?
 URL-REGEX,^https?:\/\/wap\.ngchina\.cn\/news\/adverts\/
 URL-REGEX,^https?:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua
+URL-REGEX,^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=get_coopen_ads
 URL-REGEX,^https?:\/\/www\.cmbc\.com\.cn\/m\/image\/loadingpage\/
 URL-REGEX,^https?:\/\/www\.cntv\.cn\/nettv\/adp\/
 URL-REGEX,^https?:\/\/www\.dandanzan\.com\/res\/gdsefse\.js
