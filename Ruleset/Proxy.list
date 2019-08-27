@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,speedtest
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
@@ -68,6 +69,7 @@ DOMAIN-SUFFIX,apartments.com
 DOMAIN-SUFFIX,api-glb-sea.smoot.apple.com
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
+DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,api.urbandictionary.com
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apk-dl.com
@@ -131,6 +133,7 @@ DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitshare.com
 DOMAIN-SUFFIX,bkrtx.com
+DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blog.jp
 DOMAIN-SUFFIX,blogblog.com
@@ -409,6 +412,7 @@ DOMAIN-SUFFIX,ibtimes.com
 DOMAIN-SUFFIX,icij.org
 DOMAIN-SUFFIX,icoco.com
 DOMAIN-SUFFIX,icons8.com
+DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,ift.tt
 DOMAIN-SUFFIX,ifttt.com
 DOMAIN-SUFFIX,imageshack.us
@@ -591,9 +595,11 @@ DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,on.cc
+DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,ooyala.com
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,openwrt.org
@@ -629,10 +635,6 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixnet.net
 DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,playpcesor.com
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.com.hk
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,plurk.com
 DOMAIN-SUFFIX,po18.tw
 DOMAIN-SUFFIX,pokemon.com
@@ -708,9 +710,6 @@ DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,sockslist.net
 DOMAIN-SUFFIX,softfamous.com
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sony.com.hk
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,sowers.org.hk
@@ -731,7 +730,9 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,steemitwallet.com
+DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,storify.com
 DOMAIN-SUFFIX,streetvoice.com
 DOMAIN-SUFFIX,stumbleupon.com
