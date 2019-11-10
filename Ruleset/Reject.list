@@ -3,7 +3,6 @@ DOMAIN,abema-adx.ameba.jp
 DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,ad-analysis.pconline.com.cn
 DOMAIN,ad-cn.jovcloud.com
-DOMAIN,ad-goblin.hupu.com
 DOMAIN,ad-stat.ksosoft.com
 DOMAIN,ad.12306.cn
 DOMAIN,ad.360in.com
@@ -111,6 +110,7 @@ DOMAIN,g3.letv.com
 DOMAIN,galaxy.bjcathay.com
 DOMAIN,geo2.adobe.com
 DOMAIN,ggs.myzaker.com
+DOMAIN,goblin.hupu.com
 DOMAIN,gorgon.youdao.com
 DOMAIN,gs.getui.com
 DOMAIN,h-adashx.ut.taobao.com
@@ -331,6 +331,7 @@ DOMAIN-SUFFIX,0n6h.cn
 DOMAIN-SUFFIX,0nin.cn
 DOMAIN-SUFFIX,0ozo.cn
 DOMAIN-SUFFIX,0pj1f.cn
+DOMAIN-SUFFIX,0qkc.cn
 DOMAIN-SUFFIX,0x013d.website
 DOMAIN-SUFFIX,0x01e7.website
 DOMAIN-SUFFIX,0xxd.com
@@ -1724,6 +1725,7 @@ DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,ads.servebom.com
 DOMAIN-SUFFIX,ads.service.kugou.com
 DOMAIN-SUFFIX,ads.sohu.com
+DOMAIN-SUFFIX,ads.sportradar.com
 DOMAIN-SUFFIX,ads.tremorhub.com
 DOMAIN-SUFFIX,ads.uc.cn
 DOMAIN-SUFFIX,ads.videosz.com
@@ -5447,6 +5449,7 @@ DOMAIN-SUFFIX,gjiak.com
 DOMAIN-SUFFIX,gjkpo.com
 DOMAIN-SUFFIX,gjreg.code.weddingeeos.com
 DOMAIN-SUFFIX,gjuet.com
+DOMAIN-SUFFIX,gk1.582582.com
 DOMAIN-SUFFIX,gk1.zjbiz.net
 DOMAIN-SUFFIX,gky73.cn
 DOMAIN-SUFFIX,gladiatorbugs.com
@@ -5616,6 +5619,7 @@ DOMAIN-SUFFIX,gzmxybg.com
 DOMAIN-SUFFIX,gzmzts.com
 DOMAIN-SUFFIX,gznsyh.com
 DOMAIN-SUFFIX,gzqudou.com
+DOMAIN-SUFFIX,gzxiongwa.cn
 DOMAIN-SUFFIX,gzxnlk.com
 DOMAIN-SUFFIX,gzzena.com
 DOMAIN-SUFFIX,h.canmg.cn
@@ -6515,6 +6519,7 @@ DOMAIN-SUFFIX,jianbaimei.com
 DOMAIN-SUFFIX,jianbangjiaoyu.com
 DOMAIN-SUFFIX,jianduankm.com
 DOMAIN-SUFFIX,jiangchunli.cn
+DOMAIN-SUFFIX,jianglongjie.cn
 DOMAIN-SUFFIX,jiangmg.com
 DOMAIN-SUFFIX,jianjiaovip.vip
 DOMAIN-SUFFIX,jianmei123.com
@@ -7789,6 +7794,7 @@ DOMAIN-SUFFIX,mam.netease.com
 DOMAIN-SUFFIX,mammina.cn
 DOMAIN-SUFFIX,manage.wdfans.cn
 DOMAIN-SUFFIX,manorparty.com
+DOMAIN-SUFFIX,manparis.cn
 DOMAIN-SUFFIX,maokdata.com
 DOMAIN-SUFFIX,maomaotang.com
 DOMAIN-SUFFIX,maoyumao.net
