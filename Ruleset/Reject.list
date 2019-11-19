@@ -86,7 +86,6 @@ DOMAIN,app-ad.variflight.com
 DOMAIN,applog.mobike.com
 DOMAIN,applog.musical.ly
 DOMAIN,applogapi.autohome.com.cn
-DOMAIN,applogios.uc.cn
 DOMAIN,appnext-a.akamaihd.net
 DOMAIN,appnext.hs.llnwd.net
 DOMAIN,apppv.zol.com.cn
@@ -11424,7 +11423,6 @@ DOMAIN-SUFFIX,ws2.datouniao.com
 DOMAIN-SUFFIX,ws341.com
 DOMAIN-SUFFIX,ws7j.com
 DOMAIN-SUFFIX,wsgblw.com
-DOMAIN-SUFFIX,wshtgame.com
 DOMAIN-SUFFIX,wshufa.com
 DOMAIN-SUFFIX,wsoe.kwiago.com
 DOMAIN-SUFFIX,wsoue.com
