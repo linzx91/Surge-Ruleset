@@ -171,7 +171,7 @@ DOMAIN,pgdt.ugdtimg.com
 DOMAIN,pingma.qq.com
 DOMAIN,pingtcss.qq.com
 DOMAIN,plbslog.umeng.com
-DOMAIN,pvnapp.zol.com.cn
+DOMAIN,pvnapp.zol.com.cn# Internet Service Providers Hijacking 运营商劫持
 DOMAIN,rd.autohome.com.cn
 DOMAIN,regist.fotoable.com
 DOMAIN,rich.kuwo.cn
@@ -2112,7 +2112,6 @@ DOMAIN-SUFFIX,api.push.le.com
 DOMAIN-SUFFIX,api.ra2.xlmc.sec.miui.com
 DOMAIN-SUFFIX,api.rees46.com
 DOMAIN-SUFFIX,api.rideraid.net
-DOMAIN-SUFFIX,api.sec.miui.com
 DOMAIN-SUFFIX,api.segment.io
 DOMAIN-SUFFIX,api.share.mob.com
 DOMAIN-SUFFIX,api.shuzilm.cn
@@ -2774,7 +2773,6 @@ DOMAIN-SUFFIX,breeze.olclient.baofeng.com
 DOMAIN-SUFFIX,breezily168.com
 DOMAIN-SUFFIX,brizads.com
 DOMAIN-SUFFIX,bro.flyme.cn
-DOMAIN-SUFFIX,browser.gwdang.com
 DOMAIN-SUFFIX,bryonypie.com
 DOMAIN-SUFFIX,bs.5442.com
 DOMAIN-SUFFIX,bs.serving-sys.com
@@ -3390,7 +3388,6 @@ DOMAIN-SUFFIX,cocoawu.b0.upaiyun.com
 DOMAIN-SUFFIX,cocounion.com
 DOMAIN-SUFFIX,cod.southmoney.com
 DOMAIN-SUFFIX,code.3shangyou.com
-DOMAIN-SUFFIX,code.createjs.com
 DOMAIN-SUFFIX,code.ditiezu.net
 DOMAIN-SUFFIX,code.fastclick.net
 DOMAIN-SUFFIX,code.hajuwang.cn
@@ -4976,7 +4973,6 @@ DOMAIN-SUFFIX,fanli.in
 DOMAIN-SUFFIX,fanqianbb.com
 DOMAIN-SUFFIX,fans.bestvogue.com
 DOMAIN-SUFFIX,fansi365.com
-DOMAIN-SUFFIX,fanxing.kugou.com
 DOMAIN-SUFFIX,fanyi100.com.cn
 DOMAIN-SUFFIX,farfarida.com
 DOMAIN-SUFFIX,farm-cn.plista.com
@@ -7169,7 +7165,6 @@ DOMAIN-SUFFIX,liaotian4.com
 DOMAIN-SUFFIX,lib.haotv8.com
 DOMAIN-SUFFIX,liba.haotv8.com
 DOMAIN-SUFFIX,libreriamedina.com
-DOMAIN-SUFFIX,libs.baidu.com
 DOMAIN-SUFFIX,libs.tvmao.cn
 DOMAIN-SUFFIX,license.lumion3d.com
 DOMAIN-SUFFIX,license.lumion3d.net
@@ -8761,7 +8756,6 @@ DOMAIN-SUFFIX,pcweb.v1.mgtv.com
 DOMAIN-SUFFIX,pcxzo.pluto.sogou.com
 DOMAIN-SUFFIX,pd3a.cn
 DOMAIN-SUFFIX,pd7-imp.revsci.net
-DOMAIN-SUFFIX,pdc.micloud.xiaomi.net
 DOMAIN-SUFFIX,pdfbs.com
 DOMAIN-SUFFIX,pdfexpert.cc
 DOMAIN-SUFFIX,pdkuai.com
@@ -9452,7 +9446,6 @@ DOMAIN-SUFFIX,rotate.ymtracking.com
 DOMAIN-SUFFIX,rotator.tradetracker.net
 DOMAIN-SUFFIX,rotibald.com
 DOMAIN-SUFFIX,router.bittorrent.com
-DOMAIN-SUFFIX,router.gwdang.com
 DOMAIN-SUFFIX,rovio-news-app.angrybirdsgame.com
 DOMAIN-SUFFIX,rp.crasheye.cn
 DOMAIN-SUFFIX,rp.gwallet.com
