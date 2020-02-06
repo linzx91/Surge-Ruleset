@@ -65,7 +65,6 @@ DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,apartmentratings.com
 DOMAIN-SUFFIX,apartments.com
-DOMAIN-SUFFIX,api-glb-sea.smoot.apple.com
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.steampowered.com
@@ -80,10 +79,6 @@ DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,app.textexpander.com
 DOMAIN-SUFFIX,appdownloader.net
-DOMAIN-SUFFIX,apple-dns.net
-DOMAIN-SUFFIX,apple.comscoreresearch.com
-DOMAIN-SUFFIX,apple.news
-DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
@@ -149,7 +144,6 @@ DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,book.com.tw
 DOMAIN-SUFFIX,booklive.jp
 DOMAIN-SUFFIX,books.com.tw
-DOMAIN-SUFFIX,books.itunes.apple.com
 DOMAIN-SUFFIX,booktopia.com.au
 DOMAIN-SUFFIX,boomtrain.com
 DOMAIN-SUFFIX,botanwang.com
@@ -370,7 +364,6 @@ DOMAIN-SUFFIX,gosetsuden.jp
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gumroad.com
@@ -393,7 +386,6 @@ DOMAIN-SUFFIX,hkbookcity.com
 DOMAIN-SUFFIX,hkej.com
 DOMAIN-SUFFIX,hket.com
 DOMAIN-SUFFIX,hkgolden.com
-DOMAIN-SUFFIX,hls.itunes.apple.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hootsuite.com
@@ -440,7 +432,6 @@ DOMAIN-SUFFIX,istockphoto.com
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,itgonglun.com
 DOMAIN-SUFFIX,itun.es
-DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,ixquick.com
 DOMAIN-SUFFIX,j.mp
 DOMAIN-SUFFIX,japantimes.co.jp
@@ -499,7 +490,6 @@ DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,localnetwork.uop
 DOMAIN-SUFFIX,logmein.com
-DOMAIN-SUFFIX,lookup-api.apple.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,macid.co
 DOMAIN-SUFFIX,macromedia.com
@@ -550,9 +540,6 @@ DOMAIN-SUFFIX,ndr.de
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,newipnow.com
-DOMAIN-SUFFIX,news-client.apple.com
-DOMAIN-SUFFIX,news-edge.apple.com
-DOMAIN-SUFFIX,news-events.apple.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,newstapa.org
 DOMAIN-SUFFIX,nexon.com
@@ -771,7 +758,6 @@ DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,tensorflow.org
-DOMAIN-SUFFIX,testflight.apple.com
 DOMAIN-SUFFIX,textexpander.com
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,tfhub.dev
@@ -959,6 +945,7 @@ DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xiti.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yahoo.com
@@ -1076,8 +1063,6 @@ PROCESS-NAME,Tweetbot
 PROCESS-NAME,Twitter
 PROCESS-NAME,Twitterrific
 PROCESS-NAME,node-webkit
-USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
-USER-AGENT,AppleNews*
 USER-AGENT,AwemeI18n*
 USER-AGENT,Coinbase*
 USER-AGENT,Instagram*
@@ -1085,4 +1070,3 @@ USER-AGENT,OneDrive*
 USER-AGENT,Resilio Sync*
 USER-AGENT,Roam*
 USER-AGENT,WhatsApp*
-USER-AGENT,com.apple.news*

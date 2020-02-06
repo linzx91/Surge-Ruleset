@@ -69,7 +69,6 @@ DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net
-DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,chinacache.net
 DOMAIN-SUFFIX,chinanetcenter.com
@@ -154,7 +153,6 @@ DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,hxcdn.net
 DOMAIN-SUFFIX,icedropper.com
 DOMAIN-SUFFIX,iciba.com
-DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
@@ -359,7 +357,6 @@ DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wkcdn.com
 DOMAIN-SUFFIX,workflowy.com
-DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,xhostfire.com
 DOMAIN-SUFFIX,xiami.com
@@ -372,7 +369,6 @@ DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xitek.com
 DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,xslb.net
-DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,yach.me
 DOMAIN-SUFFIX,yangkeduo.com
@@ -412,8 +408,6 @@ URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|fi
 URL-REGEX,(.+.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan).(cn|com)
 URL-REGEX,(Subject|HELO|SMTP)
 URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
-USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,MicroMessenger*
 USER-AGENT,NeteaseMusic*
