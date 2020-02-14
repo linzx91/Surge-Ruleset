@@ -141,7 +141,7 @@ DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pgdt.ugdtimg.com
-DOMAIN,pvnapp.zol.com.cn# Internet Service Providers Hijacking 运营商劫持
+DOMAIN,pvnapp.zol.com.cn
 DOMAIN,rd.autohome.com.cn
 DOMAIN,regist.fotoable.com
 DOMAIN,rich.kuwo.cn
@@ -12479,7 +12479,6 @@ DOMAIN-SUFFIX,zhybw88.com
 DOMAIN-SUFFIX,zhybzp.cn
 DOMAIN-SUFFIX,zhywyl.cn
 DOMAIN-SUFFIX,zhzzx.com
-DOMAIN-SUFFIX,zhzzx.com# Ads in Video apps
 DOMAIN-SUFFIX,zi63m.cn
 DOMAIN-SUFFIX,ziig.com.cn
 DOMAIN-SUFFIX,zilzolachi.com
