@@ -27,7 +27,7 @@
 
 |  **运行环境**  |  **支持应用**  |  **使用方法**  |
 | --- | --- | --- |
-|  [快捷指令](https://www.icloud.com/shortcuts/7fc65a1649dc43c897f73ebff061ef9d)  |  [Surge 3 Pro](https://nssurge.com)  |  [《用户指南》](/UsersGuide.md)  |
+|  [快捷指令](https://www.icloud.com/shortcuts/63c4184138294ac790ff5cb75907ca48)  |  [Surge 3 Pro](https://nssurge.com)  |  [《用户指南》](/UsersGuide.md)  |
 |  敬请期待  |    |    |
 
 <br />
