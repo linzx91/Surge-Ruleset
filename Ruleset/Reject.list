@@ -74,6 +74,7 @@ DOMAIN,al.autohome.com.cn
 DOMAIN,als.baidu.com
 DOMAIN,api.adnet.mob.com
 DOMAIN,api.newad.ifeng.com
+DOMAIN,api.zhihu.com))), (NOT,((DOMAIN,lens.zhihu.com))), (NOT,((DOMAIN,static.zhihu.com))), (NOT,((DOMAIN,www.zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
 DOMAIN,app-ad.variflight.com
 DOMAIN,applogapi.autohome.com.cn
 DOMAIN,appnext-a.akamaihd.net
@@ -84,9 +85,11 @@ DOMAIN,asimgs.pplive.cn
 DOMAIN,atrace.chelaile.net.cn
 DOMAIN,c1wx.lianwangtech.com
 DOMAIN,cdn.adapi.fotoable.com
+DOMAIN,cm.bilibili.com
 DOMAIN,counter.kingsoft.com
 DOMAIN,counter.ksosoft.com
 DOMAIN,cwx.lianwangtech.com
+DOMAIN,data.bilibili.com
 DOMAIN,de.as.pptv.com
 DOMAIN,duclick.baidu.com
 DOMAIN,emma-414870e223.huodonghezi.com
@@ -98,6 +101,8 @@ DOMAIN,geo2.adobe.com
 DOMAIN,ggs.myzaker.com
 DOMAIN,goblin.hupu.com
 DOMAIN,gorgon.youdao.com
+DOMAIN,hm.baidu.com
+DOMAIN,hmma.baidu.com
 DOMAIN,hui.sohu.com
 DOMAIN,iad0ssl.pcauto.com.cn
 DOMAIN,iad0ssl.pconline.com.cn
@@ -119,12 +124,14 @@ DOMAIN,ja.chushou.tv
 DOMAIN,kgmobilestat.kugou.com
 DOMAIN,kgmobilestatbak.kugou.com
 DOMAIN,log-yex.youdao.com
+DOMAIN,log.star.ele.me
 DOMAIN,log.ycapp.yiche.com
 DOMAIN,log.yex.youdao.com
 DOMAIN,logs.chelaile.net.cn
 DOMAIN,mads.suning.com
 DOMAIN,mdrecv.app.cntvwb.cn
 DOMAIN,minfo.wps.cn
+DOMAIN,miniapp.bilibili.com
 DOMAIN,mobad.ijinshan.com
 DOMAIN,mobads-logs.baidu.com
 DOMAIN,mobads.baidu.com
@@ -132,17 +139,25 @@ DOMAIN,mobilead.kuwo.cn
 DOMAIN,mobileads.msn.com
 DOMAIN,mobilelog.kugou.com
 DOMAIN,mopnativeadv.037201.com
+DOMAIN,mqtt.zhihu.com
+DOMAIN,mr.da.netease.com
 DOMAIN,n.3g.163.com
 DOMAIN,n.mark.letv.com
 DOMAIN,nativeadv.dftoutiao.com
+DOMAIN,newloc.map.n.shifen.com
+DOMAIN,newvector.map.baidu.com
 DOMAIN,nex.163.com
+DOMAIN,offnavi.map.baidu.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pgdt.ugdtimg.com
+DOMAIN,pr.da.netease.com
+DOMAIN,ps.map.baidu.com
 DOMAIN,pvnapp.zol.com.cn
 DOMAIN,rd.autohome.com.cn
+DOMAIN,rd.da.netease.com
 DOMAIN,regist.fotoable.com
 DOMAIN,rich.kuwo.cn
 DOMAIN,rp.hpplay.cn
@@ -152,17 +167,24 @@ DOMAIN,saxs.sina.com.cn
 DOMAIN,sdapprecv.app.cntvwb.cn
 DOMAIN,splashqqlive.gtimg.com
 DOMAIN,stat.10jqka.com.cn
+DOMAIN,sugar.zhihu.com
+DOMAIN,sv.map.baidu.com
 DOMAIN,t-ads.xiaohongshu.com
 DOMAIN,t7z.cupid.iqiyi.com
+DOMAIN,thirdparty.biliapi.com
 DOMAIN,track.sohu.com
 DOMAIN,tunion-api.m.taobao.com
 DOMAIN,u1.img.mobile.sina.cn
+DOMAIN,ulog.imap.baidu.com
 DOMAIN,ups.ksmobile.net
 DOMAIN,v1.log.moji.com
 DOMAIN,v2.reachmax.cn
 DOMAIN,vdapprecv.app.cntvwb.cn
 DOMAIN,wa.gtimg.com
+DOMAIN,wn.pos.baidu.com
+DOMAIN,wr.da.netease.com
 DOMAIN,ws.ksmobile.net
+DOMAIN,www.zhihu.com))), (NOT,((DOMAIN,static.zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))), (NOT,((DOMAIN,daily.zhihu.com))))
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,yt-adp.nosdn.127.net
@@ -3504,7 +3526,6 @@ DOMAIN-SUFFIX,cloudpush.iqiyi.com
 DOMAIN-SUFFIX,clubpenguinclub.com
 DOMAIN-SUFFIX,cm.adgrx.com
 DOMAIN-SUFFIX,cm.baidu.com
-DOMAIN-SUFFIX,cm.bilibili.com
 DOMAIN-SUFFIX,cm.ctnsnet.com
 DOMAIN-SUFFIX,cm.eyereturn.com
 DOMAIN-SUFFIX,cm.fancyapi.com
@@ -8579,7 +8600,6 @@ DOMAIN-SUFFIX,mini.eastday.com
 DOMAIN-SUFFIX,mini.hao123.com
 DOMAIN-SUFFIX,mini.jijiplayer.com
 DOMAIN-SUFFIX,mini2015.qq.com
-DOMAIN-SUFFIX,miniapp.bilibili.com
 DOMAIN-SUFFIX,minidcsc.kugou.com
 DOMAIN-SUFFIX,minipage.2345.com
 DOMAIN-SUFFIX,minisite.letv.com
@@ -8741,7 +8761,6 @@ DOMAIN-SUFFIX,mqq.zgdmsj.cn
 DOMAIN-SUFFIX,mqqad.cs0309.html5.qq.com
 DOMAIN-SUFFIX,mqqad.html5.qq.com
 DOMAIN-SUFFIX,mqqadr.reader.qq.com
-DOMAIN-SUFFIX,mr.da.netease.com
 DOMAIN-SUFFIX,mr087.cn
 DOMAIN-SUFFIX,mrelko.com
 DOMAIN-SUFFIX,mreod.cn
@@ -8768,6 +8787,7 @@ DOMAIN-SUFFIX,msg.m.letv.com
 DOMAIN-SUFFIX,msg.mobile.kugou.com
 DOMAIN-SUFFIX,msg.ptqy.gitv.tv
 DOMAIN-SUFFIX,msg.push.51y5.net
+DOMAIN-SUFFIX,msg.qy.net
 DOMAIN-SUFFIX,msg.video.qiyi.com
 DOMAIN-SUFFIX,msg.youku.com
 DOMAIN-SUFFIX,msg2.video.qiyi.com
@@ -8932,7 +8952,6 @@ DOMAIN-SUFFIX,new.zhqiu.com
 DOMAIN-SUFFIX,newapi.com
 DOMAIN-SUFFIX,newjulads.com
 DOMAIN-SUFFIX,newknowledge.cn
-DOMAIN-SUFFIX,newloc.map.n.shifen.com
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,news-img.51y5.net
 DOMAIN-SUFFIX,news-l.play.aiseet.atianqi.com
@@ -9707,7 +9726,6 @@ DOMAIN-SUFFIX,pr-bh.ybp.yahoo.com
 DOMAIN-SUFFIX,pr-static.empflix.com
 DOMAIN-SUFFIX,pr-static.tnaflix.com
 DOMAIN-SUFFIX,pr.atwola.com
-DOMAIN-SUFFIX,pr.da.netease.com
 DOMAIN-SUFFIX,pr.ybp.yahoo.com
 DOMAIN-SUFFIX,pr00001.com
 DOMAIN-SUFFIX,pr33.cn
@@ -9976,7 +9994,6 @@ DOMAIN-SUFFIX,qo26.com
 DOMAIN-SUFFIX,qoiusky.com
 DOMAIN-SUFFIX,qooic.com
 DOMAIN-SUFFIX,qoredi.com
-DOMAIN-SUFFIX,qosp.msg.71.am
 DOMAIN-SUFFIX,qp.yunanfuwuqi.com
 DOMAIN-SUFFIX,qpb.sohu.com
 DOMAIN-SUFFIX,qpokok.com
@@ -10120,7 +10137,6 @@ DOMAIN-SUFFIX,rcynoe.cn
 DOMAIN-SUFFIX,rcyy3.kaopuwangjz.com
 DOMAIN-SUFFIX,rd.ane.yahoo.co.jp
 DOMAIN-SUFFIX,rd.autohome.com.cn
-DOMAIN-SUFFIX,rd.da.netease.com
 DOMAIN-SUFFIX,rd.e.sogou.com
 DOMAIN-SUFFIX,rd.kuaigames.com
 DOMAIN-SUFFIX,rdbd.xsread.com
@@ -11128,7 +11144,6 @@ DOMAIN-SUFFIX,sucodb.com
 DOMAIN-SUFFIX,suehy.com
 DOMAIN-SUFFIX,sufficient.cn
 DOMAIN-SUFFIX,sugajo.cn
-DOMAIN-SUFFIX,sugar.zhihu.com
 DOMAIN-SUFFIX,suggestvideos.xyz
 DOMAIN-SUFFIX,suitarserviku.site
 DOMAIN-SUFFIX,suitmatters.cn
@@ -11455,7 +11470,6 @@ DOMAIN-SUFFIX,thigeeph.com
 DOMAIN-SUFFIX,thighiny.com
 DOMAIN-SUFFIX,thighlykamsh.site
 DOMAIN-SUFFIX,thimoaph.net
-DOMAIN-SUFFIX,thirdparty.biliapi.com
 DOMAIN-SUFFIX,thishare.com
 DOMAIN-SUFFIX,thitegnu.net
 DOMAIN-SUFFIX,thli43.cn
@@ -11811,7 +11825,6 @@ DOMAIN-SUFFIX,uksnyf.cn
 DOMAIN-SUFFIX,ulajilala.com
 DOMAIN-SUFFIX,ulic.baidu.com
 DOMAIN-SUFFIX,ulink.cc
-DOMAIN-SUFFIX,ulog.imap.baidu.com
 DOMAIN-SUFFIX,ultraiso.net
 DOMAIN-SUFFIX,um.simpli.fi
 DOMAIN-SUFFIX,um0592.com
@@ -12438,7 +12451,6 @@ DOMAIN-SUFFIX,wq42219.com
 DOMAIN-SUFFIX,wqmobile.com
 DOMAIN-SUFFIX,wqqsa.puzihua.com
 DOMAIN-SUFFIX,wqsph.net
-DOMAIN-SUFFIX,wr.da.netease.com
 DOMAIN-SUFFIX,wr.yiyouliao.com
 DOMAIN-SUFFIX,wrating.com
 DOMAIN-SUFFIX,wrongerababan.info
